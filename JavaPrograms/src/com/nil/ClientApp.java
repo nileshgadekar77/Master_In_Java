@@ -12,9 +12,17 @@ public class ClientApp {
 		//num.findDuplicateNo();
 		
 		//2.sort array element
-		num.sortArray();
+		//	num.sortArray();
 		
-		//3.
+		//3. reverse number
+		//num.reverseNumber(12345);
+		
+		//4.check palidrome or not
+		//num.checkPalidrome(121);
+		
+		//4.factorial Of number
+		
+		//num.factorial(5);
 	}
 
 }
